@@ -1,4 +1,4 @@
-lexer grammar MyLangLexer;
+lexer grammar MyLexer;
 
 IF      : 'if';
 ELSE    : 'else';
