@@ -1,4 +1,4 @@
-# Arvore Sintatica
+# Arvore Analisador Sintático
 
 ```bash
 prog
